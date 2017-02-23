@@ -165,7 +165,7 @@
 		<Item Name="Disband">Dissoudre</Item>
 		<Item Name="Automation">Management</Item>
 		<Item Name="Type">Type</Item>
-		<Item Name="Dismiss">Renvoyer</Item>
+		<Item Name="Dismiss">Fermer</Item>
 		<Item Name="Tier">Echelon</Item>
 		<Item Name="Progress">Progression</Item>
 		<Item Name="Contract">Contrat</Item>
@@ -1233,8 +1233,8 @@ ajoutez des chauffages/ventilations et pensez aux pertes dues aux fenêtres.</It
 		<Item Name="Business reputation">Réputation de l'entreprise</Item>
 		<Item Name="BusinessRepInfo">C'est votre réputation dans le secteur logiciel. Chaque étoile aura une incidence sur la qualité des salariés, des contrats, des offres et sur la distribution</Item>
 		<Item Name="PricingButtonTip">Cliquez ici pour utiliser le prix suggéré pour ce logiciel</Item>
-		<Item Name="Market recognition">Reconnaissance du marché</Item>
-		<Item Name="MarketRecognitionInfo">Votre reconnaissance du marché contrôle votre popularité sur chaque marché et la façon dont se vendent vos produits pour chaque catégorie</Item>
+		<Item Name="Market recognition">Popularité</Item>
+		<Item Name="MarketRecognitionInfo">Cette indice vous permet de savoir à quel point votre entreprise est populaire dans le monde.</Item>
 		<Item Name="Bandwidth">Bande passante</Item>
 		<Item Name="Reflections">Réflexions</Item>
 		<Item Name="ActionChange Room Team">Changer d'équipe</Item>
@@ -1779,7 +1779,7 @@ Attribuez un budget pour éviter de dépenser tout votre argent ou laisser le à
 		<Item Name="AutoDevMissingLeader">Vous devez choisir un responsable avant de continuer</Item>
 		<Item Name="AutoDevNoLeaders">Il n'y a pas de responsables disponibes, veuillez en embaucher un ou changer le rôle d'un de vos salariés</Item>
 		<Item Name="LateProductRelease">{0} est en retard et les gens commencent à s'en désintéresser</Item>
-		<Item Name="NewDebtLoss">Votre entreprise est endettée ! Vous avez jusqu'au pour corriger votre situation financière ou votre entreprise sera en banqueroute</Item>
+		<Item Name="NewDebtLoss">Votre entreprise est endettée ! Vous avez jusqu'au {0} pour corriger votre situation financière ou votre entreprise sera en banqueroute</Item>
 		<Item Name="NewDebtLossPass">Félicitations ! 24 heures sont passées et votre entreprise a réglé ses dettes</Item>
 		<Item Name="ReviewError">L'évaluation n'est disponible que durant la phase d'alpha</Item>
 		<Item Name="Current floor">Etage actuel</Item>
